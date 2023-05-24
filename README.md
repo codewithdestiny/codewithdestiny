@@ -3,5 +3,9 @@
 [![Destiny's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdestiny&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent)](https://github.com/codewithdestiny/github-readme-stats)
 
 # `Let's connect` 
-###[<i class="fa fa-brands fa-lg fa-twitter"></i> ](https://twitter.com/codewithdestiny) &nbsp;&nbsp;&nbsp;[<i class="fa fa-brands fa-lg fa-youtube"></i> ](https://youtube.com/codewithdestiny)  &nbsp;&nbsp;&nbsp;[<i class="fa fa-brands fa-lg fa-linkedin"></i> ](https://linkedin.in.com/codewithdestiny) 
+<p align="left">
+<a href="https://twitter.com/codewithdestiny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/uas/login-submit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codewithdestiny/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 
